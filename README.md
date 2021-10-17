@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Reviews Page Mockup
 
 This is a very simple Review page mockup. Made with React and a bit of Font Awesome.
 
